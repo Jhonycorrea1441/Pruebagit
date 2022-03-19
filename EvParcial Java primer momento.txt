@@ -1,0 +1,22 @@
+
+
+1)Que diferencia hay entre un igual ( = ) y un doble ( == )
+R//
+
+( == ) Es un operador de Igualdad
+( = ) Es un operador de Asignación
+
+2. Cuales son los tipos de datos básico de java
+R// int, short, long, double, float, boolean, byte, char.
+
+3.Quién es la empresa que actualmente se encarga de mantener el desarrollo de
+java
+
+R// En la actualidad es ORACLE.
+
+ 4. En qué otros campos se puede utilizar java para crear software
+R// Java es utilizado: 
+- En aplicaciones de escritorio
+-Procesadores de texto
+- Videojuegos
+
